@@ -1,0 +1,13 @@
+Admin: fazal
+pass:  123
+
+
+Obj: Teacher1 
+
+pass: 999@1234!
+
+Obj: Teacher2
+pass: 888@1234!
+
+Obj: Teacher3
+pass: 777@1234!
